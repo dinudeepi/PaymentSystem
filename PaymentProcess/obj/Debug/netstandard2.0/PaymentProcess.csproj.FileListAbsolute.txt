@@ -1,0 +1,8 @@
+C:\Users\dmurali\source\repos\PaymentProcess\obj\Debug\netstandard2.0\PaymentProcess.AssemblyInfoInputs.cache
+C:\Users\dmurali\source\repos\PaymentProcess\obj\Debug\netstandard2.0\PaymentProcess.AssemblyInfo.cs
+C:\Users\dmurali\source\repos\PaymentProcess\bin\Debug\netstandard2.0\PaymentProcess.deps.json
+C:\Users\dmurali\source\repos\PaymentProcess\bin\Debug\netstandard2.0\PaymentProcess.dll
+C:\Users\dmurali\source\repos\PaymentProcess\bin\Debug\netstandard2.0\PaymentProcess.pdb
+C:\Users\dmurali\source\repos\PaymentProcess\obj\Debug\netstandard2.0\PaymentProcess.dll
+C:\Users\dmurali\source\repos\PaymentProcess\obj\Debug\netstandard2.0\PaymentProcess.pdb
+C:\Users\dmurali\source\repos\PaymentProcess\obj\Debug\netstandard2.0\PaymentProcess.csprojAssemblyReference.cache
